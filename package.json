@@ -1,0 +1,23 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "chat app using websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArashDerArcher/chatApp.git"
+  },
+  "keywords": [
+    "websocket",
+    "react"
+  ],
+  "author": "ArashDerArcher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArashDerArcher/chatApp/issues"
+  },
+  "homepage": "https://github.com/ArashDerArcher/chatApp#readme"
+}
