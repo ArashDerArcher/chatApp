@@ -1,1 +1,1 @@
-This is a simple chat app using Ract and websockets.
+This is a simple chat app using React and websockets.
